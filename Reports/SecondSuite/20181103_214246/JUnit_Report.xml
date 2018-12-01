@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SecondSuite" time="112" tests="2" failures="0" errors="0">
+   <testsuite name="SecondSuite" tests="2" failures="0" errors="0" time="112" timestamp="2018-11-03 21:43:44" hostname="C-Deepak.Jindal - TILLT000869.timesgroup.com" id="Test Suites/SecondSuite">
+      <properties>
+         <property name="deviceName" value="motorola Moto G (4) (Android 7.0)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\c-deepak.jindal\\Katalon Studio\\AndroidDemo\\Reports\\SecondSuite\\20181103_214246"/>
+         <property name="logFiles" value="C:\\Users\\c-deepak.jindal\\Katalon Studio\\AndroidDemo\\Reports\\SecondSuite\\20181103_214246\\appium.log, C:\\Users\\c-deepak.jindal\\Katalon Studio\\AndroidDemo\\Reports\\SecondSuite\\20181103_214246\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="C-Deepak.Jindal - TILLT000869.timesgroup.com"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.8.5.1"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.8.1"/>
+         <property name="deviceModel" value="Moto G (4)"/>
+         <property name="hostAddress" value="192.168.1.5"/>
+         <property name="deviceManufacturer" value="motorola"/>
+         <property name="deviceId" value="ZY223DDFBF"/>
+         <property name="deviceName" value="motorola Moto G (4) (Android 7.0)"/>
+         <property name="deviceOSVersion" value="7.0"/>
+      </properties>
+      <testcase name="Test Cases/InputText" classname="Test Cases/InputText" status="PASSED">
+         <system-out><![CDATA[2018-11-03 21:43:45 - [TEST_CASE][PASSED] - Test Cases/InputText: Test Cases/InputText
+
+2018-11-03 21:43:45 - [TEST_STEP][PASSED] - startApplication: Started app at: 'C:\Users\c-deepak.jindal\Desktop\ApiDemos-debug.apk'
+
+2018-11-03 21:44:27 - [MESSAGE][PASSED] - Started app at: 'C:\Users\c-deepak.jindal\Desktop\ApiDemos-debug.apk'
+
+2018-11-03 21:44:27 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/android.widget.TextView9 - Preference (1)'
+
+2018-11-03 21:44:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-11-03 21:44:28 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.TextView9 - Preference (1)'
+
+2018-11-03 21:44:28 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/android.widget.TextView3 - 3. Preference dependencies (1)'
+
+2018-11-03 21:44:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-11-03 21:44:30 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.TextView3 - 3. Preference dependencies (1)'
+
+2018-11-03 21:44:30 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/android.widget.CheckBox0 (1)'
+
+2018-11-03 21:44:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-11-03 21:44:31 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.CheckBox0 (1)'
+
+2018-11-03 21:44:31 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/android.widget.TextView3 - WiFi settings'
+
+2018-11-03 21:44:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-11-03 21:44:33 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.TextView3 - WiFi settings'
+
+2018-11-03 21:44:33 - [TEST_STEP][PASSED] - setText: Text 'test' has been set to element 'Object Repository/android.widget.EditText0'
+
+2018-11-03 21:44:33 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-11-03 21:44:34 - [MESSAGE][PASSED] - Text 'test' has been set to element 'Object Repository/android.widget.EditText0'
+
+2018-11-03 21:44:34 - [TEST_STEP][PASSED] - hideKeyboard: Keyboard is hidden
+
+2018-11-03 21:44:35 - [MESSAGE][PASSED] - Keyboard is hidden
+
+2018-11-03 21:44:36 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/android.widget.Button1 - OK'
+
+2018-11-03 21:44:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-11-03 21:44:38 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.Button1 - OK'
+
+2018-11-03 21:44:38 - [TEST_STEP][PASSED] - closeApplication: Close app successfully
+
+2018-11-03 21:44:42 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/ScrollTest" classname="Test Cases/ScrollTest" status="PASSED">
+         <system-out><![CDATA[2018-11-03 21:44:42 - [TEST_CASE][PASSED] - Test Cases/ScrollTest: Test Cases/ScrollTest
+
+2018-11-03 21:44:42 - [TEST_STEP][PASSED] - startApplication: Started app at: 'C:\Users\c-deepak.jindal\Desktop\ApiDemos-debug.apk'
+
+2018-11-03 21:45:21 - [MESSAGE][PASSED] - Started app at: 'C:\Users\c-deepak.jindal\Desktop\ApiDemos-debug.apk'
+
+2018-11-03 21:45:21 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/android.widget.TextView11 - Views'
+
+2018-11-03 21:45:21 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-11-03 21:45:23 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.TextView11 - Views'
+
+2018-11-03 21:45:23 - [TEST_STEP][PASSED] - scrollToText: Scrolling to text 'Switches' successfully
+
+2018-11-03 21:45:30 - [MESSAGE][PASSED] - Scrolling to text 'Switches' successfully
+
+2018-11-03 21:45:30 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/android.widget.TextView5 - Switches'
+
+2018-11-03 21:45:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-11-03 21:45:32 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.TextView5 - Switches'
+
+2018-11-03 21:45:32 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/android.widget.Switch0 - Standard switch OFF'
+
+2018-11-03 21:45:32 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-11-03 21:45:33 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.Switch0 - Standard switch OFF'
+
+2018-11-03 21:45:33 - [TEST_STEP][PASSED] - closeApplication: Close app successfully
+
+2018-11-03 21:45:37 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-11-03 21:43:44 - [TEST_SUITE][PASSED] - SecondSuite: Test Cases/ScrollTest]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

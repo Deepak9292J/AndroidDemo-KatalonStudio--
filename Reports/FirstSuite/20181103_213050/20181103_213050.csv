@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+FirstSuite,,,2018-11-03 21:30:53,2018-11-03 21:31:44,51.025s,PASSED
+,,,,,,
+Test Cases/BasicTest,,,2018-11-03 21:30:53,2018-11-03 21:31:44,50.487s,PASSED
+startApplication,,,2018-11-03 21:30:54,2018-11-03 21:31:34,39.939s,PASSED
+tap,,,2018-11-03 21:31:34,2018-11-03 21:31:36,1.979s,PASSED
+tap,,,2018-11-03 21:31:36,2018-11-03 21:31:37,1.548s,PASSED
+tap,,,2018-11-03 21:31:38,2018-11-03 21:31:39,1.043s,PASSED
+closeApplication,,,2018-11-03 21:31:39,2018-11-03 21:31:44,5.411s,PASSED
